@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Actividad-1.2FA</string>
+    <string name="txtTitulo">Ingrese los datos a enviar</string>
+    <string name="txtDatos"></string>
+    <string name="btnEnviar">Enviar</string>
+    <string name="txtDestino"></string>
+
+</resources>
