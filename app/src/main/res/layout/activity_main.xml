@@ -12,9 +12,10 @@
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginEnd="127dp"
-        android:layout_marginBottom="536dp"
-        android:text="@string/txtTitulo" />
+        android:layout_marginEnd="98dp"
+        android:layout_marginBottom="539dp"
+        android:text="@string/txtTitulo"
+        android:textSize="20sp" />
 
     <EditText
         android:id="@+id/txtDatos"
@@ -36,8 +37,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginEnd="162dp"
-        android:layout_marginBottom="275dp"
+        android:layout_marginEnd="165dp"
+        android:layout_marginBottom="281dp"
         android:text="@string/btnEnviar" />
 
 </RelativeLayout>
